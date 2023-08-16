@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "960505426466",
+    "firebase_url": "https://onlinepharmacy-5e7b5-default-rtdb.firebaseio.com",
+    "project_id": "onlinepharmacy-5e7b5",
+    "storage_bucket": "onlinepharmacy-5e7b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960505426466:android:9343ef0f47264d0859507b",
+        "android_client_info": {
+          "package_name": "com.flutterflow.healthai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960505426466-8rt7ds7va2l54b86fdkrmc36eoecftsv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChXI0_zI0HMCaSuHzcUWcsjlJhvuUvNaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960505426466-8rt7ds7va2l54b86fdkrmc36eoecftsv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "960505426466-09h94d24084nuc7fkrkoj9p9vcjvgso4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.mypharma"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960505426466:android:3b69054d0facdb3659507b",
+        "android_client_info": {
+          "package_name": "com.mycompany.mypharma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960505426466-8rt7ds7va2l54b86fdkrmc36eoecftsv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChXI0_zI0HMCaSuHzcUWcsjlJhvuUvNaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960505426466-8rt7ds7va2l54b86fdkrmc36eoecftsv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "960505426466-09h94d24084nuc7fkrkoj9p9vcjvgso4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.mypharma"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960505426466:android:1acae5f3c4f7edc659507b",
+        "android_client_info": {
+          "package_name": "com.mycompany.pharmacistapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960505426466-8rt7ds7va2l54b86fdkrmc36eoecftsv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChXI0_zI0HMCaSuHzcUWcsjlJhvuUvNaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960505426466-8rt7ds7va2l54b86fdkrmc36eoecftsv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "960505426466-09h94d24084nuc7fkrkoj9p9vcjvgso4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.mypharma"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
